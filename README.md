@@ -1,6 +1,6 @@
 # maskduck's hyprland config
 
-highly biased hyprland config - use at your own risk
+highly biased hyprland config - use at your own risk <br>
 modified from default a bit to suit me :3 
 
 ### acknowledgements
